@@ -1,0 +1,55 @@
+body{
+
+    background-color: rgb(68, 87, 103);
+
+}
+
+
+.pftext{
+    padding-left: 20px;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.img_icon{
+
+    width: 210px;
+    height: 210px;
+    border-radius: 50%;
+    border-style: groove;
+
+}
+
+.aaaaa{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+
+.text-primary{
+
+    color:aliceblue;
+
+}
+
+.temp_teste{
+
+    background-color: aqua;
+}
+
+
+.button-text{
+
+    color: aliceblue;
+
+}
+
+.redes{
+
+    width: 30px;
+    height: 30px;
+
+}

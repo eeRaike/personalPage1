@@ -26,7 +26,6 @@ body{
 
     padding-top: 20px;
     padding-bottom: 20px;
-
 }
 
 .text-primary{
@@ -52,4 +51,78 @@ body{
     width: 30px;
     height: 30px;
 
+}
+
+
+.aaab{
+
+    background-color: rgb(108, 182, 231);
+    
+
+}
+
+.aab{
+
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgba(70, 94, 129, 0.527);
+
+}
+
+
+.footercards{
+
+    background-color:rgb(108, 182, 231);
+
+}
+
+
+.cards{
+
+    background-color: rgb(108, 182, 231); ;
+
+}
+
+
+.collapse_temp{
+
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.collapse_inside_temp{
+
+    background-color:rgba(70, 94, 129, 0.527);
+    padding: 70px;
+    color: aliceblue;
+
+}
+
+.teste{
+
+    padding-left: 500px;
+    padding-right: 500px;
+    padding-bottom: 50px;
+    background-color: rgb(68, 87, 103);
+}
+
+
+.conhecimentos_imgs{
+
+    width: 100px;
+
+}
+
+.collapseConhecimentos_align{
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-content: center;
+    
 }
